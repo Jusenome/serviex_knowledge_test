@@ -1,0 +1,17 @@
+C:\Users\Edisson\Documents\Development Courses SN\Test for New Jobs\Componente Serviex\KnowledgeTest\Serviex.Test.Repository\obj\Debug\Serviex.Test.Repository.csproj.AssemblyReference.cache
+C:\Users\Edisson\Documents\Development Courses SN\Test for New Jobs\Componente Serviex\KnowledgeTest\Serviex.Test.Repository\obj\Debug\Serviex.Test.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Edisson\Documents\Development Courses SN\Test for New Jobs\Componente Serviex\KnowledgeTest\Serviex.Test.Repository\bin\Debug\Serviex.Test.Repository.dll.config
+C:\Users\Edisson\Documents\Development Courses SN\Test for New Jobs\Componente Serviex\KnowledgeTest\Serviex.Test.Repository\bin\Debug\Serviex.Test.Repository.dll
+C:\Users\Edisson\Documents\Development Courses SN\Test for New Jobs\Componente Serviex\KnowledgeTest\Serviex.Test.Repository\bin\Debug\Serviex.Test.Repository.pdb
+C:\Users\Edisson\Documents\Development Courses SN\Test for New Jobs\Componente Serviex\KnowledgeTest\Serviex.Test.Repository\bin\Debug\EntityFramework.dll
+C:\Users\Edisson\Documents\Development Courses SN\Test for New Jobs\Componente Serviex\KnowledgeTest\Serviex.Test.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Edisson\Documents\Development Courses SN\Test for New Jobs\Componente Serviex\KnowledgeTest\Serviex.Test.Repository\bin\Debug\Serviex.Test.Entity.dll
+C:\Users\Edisson\Documents\Development Courses SN\Test for New Jobs\Componente Serviex\KnowledgeTest\Serviex.Test.Repository\bin\Debug\Serviex.Test.Entity.pdb
+C:\Users\Edisson\Documents\Development Courses SN\Test for New Jobs\Componente Serviex\KnowledgeTest\Serviex.Test.Repository\bin\Debug\Serviex.Test.Entity.dll.config
+C:\Users\Edisson\Documents\Development Courses SN\Test for New Jobs\Componente Serviex\KnowledgeTest\Serviex.Test.Repository\bin\Debug\EntityFramework.xml
+C:\Users\Edisson\Documents\Development Courses SN\Test for New Jobs\Componente Serviex\KnowledgeTest\Serviex.Test.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Edisson\Documents\Development Courses SN\Test for New Jobs\Componente Serviex\KnowledgeTest\Serviex.Test.Repository\obj\Debug\Serviex.Test.Repository.csproj.CopyComplete
+C:\Users\Edisson\Documents\Development Courses SN\Test for New Jobs\Componente Serviex\KnowledgeTest\Serviex.Test.Repository\obj\Debug\Serviex.Test.Repository.dll
+C:\Users\Edisson\Documents\Development Courses SN\Test for New Jobs\Componente Serviex\KnowledgeTest\Serviex.Test.Repository\obj\Debug\Serviex.Test.Repository.pdb
+C:\Users\Edisson\Documents\Development Courses SN\Test for New Jobs\Componente Serviex\KnowledgeTest\Serviex.Test.Repository\bin\Debug\Dapper.dll
+C:\Users\Edisson\Documents\Development Courses SN\Test for New Jobs\Componente Serviex\KnowledgeTest\Serviex.Test.Repository\bin\Debug\Dapper.xml

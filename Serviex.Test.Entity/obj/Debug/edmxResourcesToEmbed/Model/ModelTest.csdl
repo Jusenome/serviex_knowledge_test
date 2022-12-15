@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Serviex_testModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="User_test">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="name" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="date_of_birth" Type="DateTime" Precision="3" />
+    <Property Name="gender" Type="String" MaxLength="1" FixedLength="true" Unicode="false" />
+  </EntityType>
+  <EntityContainer Name="Serviex_testEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="User_test" EntityType="Self.User_test" />
+    <FunctionImport Name="sp_user_list" ReturnType="Collection(Serviex_testModel.sp_user_list_Result)" />
+  </EntityContainer>
+  <ComplexType Name="sp_user_list_Result">
+    <Property Type="Int32" Name="id" Nullable="false" />
+    <Property Type="String" Name="name" Nullable="true" MaxLength="100" />
+    <Property Type="DateTime" Name="date_of_birth" Nullable="true" Precision="23" />
+    <Property Type="String" Name="gender" Nullable="true" MaxLength="1" />
+  </ComplexType>
+</Schema>

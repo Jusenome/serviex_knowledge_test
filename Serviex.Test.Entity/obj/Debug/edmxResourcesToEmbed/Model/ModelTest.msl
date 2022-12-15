@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Serviex_testModelStoreContainer" CdmEntityContainer="Serviex_testEntities">
+    <EntitySetMapping Name="User_test">
+      <EntityTypeMapping TypeName="Serviex_testModel.User_test">
+        <MappingFragment StoreEntitySet="User_test">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="date_of_birth" ColumnName="date_of_birth" />
+          <ScalarProperty Name="gender" ColumnName="gender" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="sp_user_list" FunctionName="Serviex_testModel.Store.sp_user_list">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="Serviex_testModel.sp_user_list_Result">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="date_of_birth" ColumnName="date_of_birth" />
+          <ScalarProperty Name="gender" ColumnName="gender" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>

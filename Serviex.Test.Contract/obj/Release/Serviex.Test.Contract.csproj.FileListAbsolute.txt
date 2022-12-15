@@ -1,0 +1,9 @@
+C:\Users\Edisson\Documents\Development Courses SN\Test for New Jobs\Componente Serviex\KnowledgeTest\Serviex.Test.Contract\bin\Release\Serviex.Test.Contract.dll
+C:\Users\Edisson\Documents\Development Courses SN\Test for New Jobs\Componente Serviex\KnowledgeTest\Serviex.Test.Contract\bin\Release\Serviex.Test.Contract.pdb
+C:\Users\Edisson\Documents\Development Courses SN\Test for New Jobs\Componente Serviex\KnowledgeTest\Serviex.Test.Contract\bin\Release\Serviex.Test.Entity.dll
+C:\Users\Edisson\Documents\Development Courses SN\Test for New Jobs\Componente Serviex\KnowledgeTest\Serviex.Test.Contract\bin\Release\Serviex.Test.Entity.pdb
+C:\Users\Edisson\Documents\Development Courses SN\Test for New Jobs\Componente Serviex\KnowledgeTest\Serviex.Test.Contract\obj\Release\Serviex.Test.Contract.csproj.AssemblyReference.cache
+C:\Users\Edisson\Documents\Development Courses SN\Test for New Jobs\Componente Serviex\KnowledgeTest\Serviex.Test.Contract\obj\Release\Serviex.Test.Contract.csproj.CoreCompileInputs.cache
+C:\Users\Edisson\Documents\Development Courses SN\Test for New Jobs\Componente Serviex\KnowledgeTest\Serviex.Test.Contract\obj\Release\Serviex.Test.Contract.csproj.CopyComplete
+C:\Users\Edisson\Documents\Development Courses SN\Test for New Jobs\Componente Serviex\KnowledgeTest\Serviex.Test.Contract\obj\Release\Serviex.Test.Contract.dll
+C:\Users\Edisson\Documents\Development Courses SN\Test for New Jobs\Componente Serviex\KnowledgeTest\Serviex.Test.Contract\obj\Release\Serviex.Test.Contract.pdb

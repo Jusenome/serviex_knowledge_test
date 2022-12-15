@@ -1,0 +1,11 @@
+C:\Users\Edisson\Documents\Development Courses SN\Test for New Jobs\Componente Serviex\KnowledgeTest\Serviex.Test.Entity\bin\Debug\Serviex.Test.Entity.dll.config
+C:\Users\Edisson\Documents\Development Courses SN\Test for New Jobs\Componente Serviex\KnowledgeTest\Serviex.Test.Entity\bin\Debug\Serviex.Test.Entity.dll
+C:\Users\Edisson\Documents\Development Courses SN\Test for New Jobs\Componente Serviex\KnowledgeTest\Serviex.Test.Entity\bin\Debug\Serviex.Test.Entity.pdb
+C:\Users\Edisson\Documents\Development Courses SN\Test for New Jobs\Componente Serviex\KnowledgeTest\Serviex.Test.Entity\bin\Debug\EntityFramework.dll
+C:\Users\Edisson\Documents\Development Courses SN\Test for New Jobs\Componente Serviex\KnowledgeTest\Serviex.Test.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Edisson\Documents\Development Courses SN\Test for New Jobs\Componente Serviex\KnowledgeTest\Serviex.Test.Entity\bin\Debug\EntityFramework.xml
+C:\Users\Edisson\Documents\Development Courses SN\Test for New Jobs\Componente Serviex\KnowledgeTest\Serviex.Test.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Edisson\Documents\Development Courses SN\Test for New Jobs\Componente Serviex\KnowledgeTest\Serviex.Test.Entity\obj\Debug\Serviex.Test.Data.csproj.CoreCompileInputs.cache
+C:\Users\Edisson\Documents\Development Courses SN\Test for New Jobs\Componente Serviex\KnowledgeTest\Serviex.Test.Entity\obj\Debug\Serviex.Test.Data.csproj.CopyComplete
+C:\Users\Edisson\Documents\Development Courses SN\Test for New Jobs\Componente Serviex\KnowledgeTest\Serviex.Test.Entity\obj\Debug\Serviex.Test.Entity.dll
+C:\Users\Edisson\Documents\Development Courses SN\Test for New Jobs\Componente Serviex\KnowledgeTest\Serviex.Test.Entity\obj\Debug\Serviex.Test.Entity.pdb
